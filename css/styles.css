@@ -52,6 +52,9 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 }
+.milo.link{
+    color:#434455;
+}
 .milo-link:hover,
 .milo-link:focus{
 color:#404bbf;
@@ -93,7 +96,15 @@ line-height: 1.2;
 letter-spacing: 0.02em;
 color: #2e2f42;
 }
-.p123{
+.zagolovok{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+.paragraf1{
     font-family: "Roboto", sans-serif;
     font-weight: 400;
 font-size: 16px;
@@ -127,7 +138,7 @@ letter-spacing: 0.02em;
 color: #2e2f42;
 
 }
-.p234{
+.paragraf2{
     font-family: "Roboto", sans-serif;  
     font-weight: 400;
 font-size: 16px;
@@ -152,7 +163,7 @@ text-transform: uppercase;
 color: #f4f4fd;
 
 }
-.p345{
+.paragraf34{
     font-family: "Roboto", sans-serif;
     font-weight: 400;
 font-size: 16px;
@@ -175,4 +186,15 @@ color: #f4f4fd;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42; 
+}
+.li-list{
+    background-color: #FFFFFF
+}
+.your-team{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
 }
