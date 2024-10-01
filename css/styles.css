@@ -1,9 +1,11 @@
 body{
-    font-family:"Roboto" sans-serif ;
+    font-family: "Roboto",sans-serif; 
 color: #434455;
 background-color:#fff;
 }
-
+.address{
+    font-style: normal;
+}
 a{
     text-decoration: none;
     color: #2E2F42;
@@ -15,7 +17,7 @@ ul{
     font-family: "Raleway", sans-serif;
     font-weight: 700;
 font-size: 18px;
-line-height: 1.16667;
+line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;
@@ -45,11 +47,10 @@ color: #2e2f42;
 .milo{
     font-family: "Roboto", sans-serif;
     font-weight: 400;
+    color: #434455;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
-color: #434455;
-
 }
 .milo-link:hover,
 .milo-link:focus{
@@ -59,7 +60,7 @@ color:#404bbf;
     font-family: "Roboto", sans-serif;
     font-weight: 700;
 font-size: 56px;
-line-height: 1.07143;
+line-height: 1.07;
 letter-spacing: 0.02em;
 text-align: center;
 color: #fff;
@@ -71,6 +72,7 @@ button{
     cursor: pointer;
 }
 .knopka{
+    font-family: "Roboto", sans-serif;
     background-color: #4D5AE5;
     font-weight: 500;
     font-size: 16px;
@@ -91,7 +93,7 @@ line-height: 1.2;
 letter-spacing: 0.02em;
 color: #2e2f42;
 }
-.p1{
+.p123{
     font-family: "Roboto", sans-serif;
     font-weight: 400;
 font-size: 16px;
@@ -104,9 +106,10 @@ h2{
     font-family: "Roboto", sans-serif;
     font-weight: 700;
 font-size: 36px;
-line-height: 1.11111;
+line-height: 1.11;
 letter-spacing: 0.02em;
 text-align: center;
+text-transform: capitalize;
 color: #2e2f42;
 
 }
@@ -124,7 +127,7 @@ letter-spacing: 0.02em;
 color: #2e2f42;
 
 }
-.p2{
+.p234{
     font-family: "Roboto", sans-serif;  
     font-weight: 400;
 font-size: 16px;
@@ -133,20 +136,23 @@ letter-spacing: 0.02em;
 color: #434455;
 
 }
+.list{
+    background-color: #FFFFFF 
+}
 footer{
     background: #2e2f42;
 }
-.span-2{
+.span-more{
     font-family: "Raleway", sans-serif;
     font-weight: 700;
 font-size: 18px;
-line-height: 1.16667;
+line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #f4f4fd;
 
 }
-.p3{
+.p345{
     font-family: "Roboto", sans-serif;
     font-weight: 400;
 font-size: 16px;
@@ -154,4 +160,19 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #f4f4fd;
 
+}
+.section4{
+    font-size: 36px;
+    line-height: 1.11; 
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color:#2e2f42;
+}
+.your-partfolio{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42; 
 }
